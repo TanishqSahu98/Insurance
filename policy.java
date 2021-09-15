@@ -1,2 +1,4 @@
-class policy{
+class Policy{
+     void fund(){
+     }
 }
